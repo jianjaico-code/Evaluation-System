@@ -1,0 +1,68 @@
+.body {
+  margin-top: 50px; }
+
+tr td {
+  padding: 4px !important;
+  margin: 4px !important; }
+
+hr {
+  background: #9FB3FF;
+  margin: 20px; }
+
+textarea {
+  margin-top: 10px; }
+
+.navbar {
+  box-shadow: 2px 2px 5px #9FB3FF;
+  opacity: 0.9;
+  background: #fff;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  transition: all 0.2s; }
+  .navbar .nav-item {
+    font-size: 1.2rem;
+    padding-right: 10px;
+    color: white; }
+  .navbar .navbar-brand {
+    font-size: 1.30em;
+    transition: all 0.2s; }
+  .navbar #logo {
+    width: 50px;
+    height: 50px;
+    transition: all 0.2s; }
+  .navbar .btn:hover {
+    background-color: #2c8192; }
+
+.thead-dark {
+  background: green; }
+
+li {
+  font-weight: normal; }
+
+ul {
+  list-style-type: none;
+  margin-bottom: 1px; }
+
+#student_info {
+  background: #D6B2B2; }
+
+#data {
+  background: #9FB3FF; }
+
+.body_data {
+  background: #D0D6E6; }
+
+.footer {
+  background-color: #2c8192; }
+
+.stick-top {
+  margin-top: -10px; }
+
+.subE {
+  margin: 10px; }
+
+.Evaluate {
+  padding-left: 50px;
+  padding-right: 50px;
+  background: #9FB3FF;
+  color: black; }

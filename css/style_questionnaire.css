@@ -1,0 +1,45 @@
+body {
+  margin-top: 130px; }
+
+.navbar {
+  box-shadow: 2px 2px 5px #3292a6;
+  opacity: 0.9;
+  background: #fff;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  transition: all 0.2s; }
+  .navbar .nav-item {
+    font-size: 1.2rem;
+    padding-right: 10px;
+    color: white; }
+  .navbar .navbar-brand {
+    font-size: 1.30em;
+    transition: all 0.2s; }
+  .navbar #logo {
+    width: 50px;
+    height: 50px;
+    transition: all 0.2s; }
+  .navbar .btn:hover {
+    background-color: #2c8192; }
+
+.thead-dark {
+  background: green; }
+
+li {
+  font-weight: normal; }
+
+ul {
+  list-style-type: none;
+  margin-bottom: 1px; }
+
+.footer {
+  background-color: #2c8192; }
+
+#student_info {
+  background: #CAC0C0; }
+
+.body_data {
+  background: #ACEDFA; }
+
+#data {
+  background: #3292a6; }
